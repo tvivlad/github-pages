@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div>
-      <h2>Приложение карточка</h2>
+      <h2>Приложение карточкапше</h2>
       <Card
         avatar={avatar}
         first_name={first_name}
